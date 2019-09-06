@@ -1,5 +1,8 @@
 # booklub
 
+[Give the app a try](https://booklub-client.herokuapp.com/)
+
+
 ### Final project at </ salt >
 
 The requirements for the final 2 weeks project were:
