@@ -1,6 +1,6 @@
 # booklub
 
-[Give the app a try](https://booklub-client.herokuapp.com/)
+[Give the app a try!](https://booklub-client.herokuapp.com/) *(Adapted for mobile only)*
 
 
 ### Final project at </ salt >
@@ -27,7 +27,7 @@ Among the technologies we used:
 - Google authentication for managing login in the app
 
 Working with Scrum, we: 
-- wrote user stories ('As a user I want to .. so that ..)
+- wrote user stories ('As a user I want to .. so that ..')
 - estimated user stories using relative estimation
 - started with a sprint 0 were we set up the environment: database structure and fake data (build up a migration script), basic express server set up & npx create react app
 - planned sprint 1 by prioritizing the user stories
