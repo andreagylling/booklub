@@ -1,7 +1,5 @@
 # booklub
 
-[Give the app a try!](https://booklub-client.herokuapp.com/) *(Adapted for mobile only)*
-
 
 ### Final project at </ salt >
 
